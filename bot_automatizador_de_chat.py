@@ -9,7 +9,8 @@ import random
 from deep_translator import GoogleTranslator
 import os
 from cgitb import text
-
+#bot de automatização de chat sem bd
+#revisar e atualizar 
 
 tela = ctk.CTk()
 tela.geometry('300x300')
