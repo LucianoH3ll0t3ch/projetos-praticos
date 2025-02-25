@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//calculadora em c
 
 int main(){
 	char operacao;
